@@ -1,4 +1,4 @@
-Gestor Inteligente de Clientes
+## Gestor Inteligente de Clientes
 
 Sistema de gestión de cartera de clientes desarrollado íntegramente en Python. Este proyecto aplica los fundamentos de la Programación Orientada a Objetos (POO) para ofrecer una solución robusta y escalabe.
 ## Características Principales
